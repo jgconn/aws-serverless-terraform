@@ -1375,5 +1375,4 @@ module "api_gateway_deply" {
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-#   a w s - s e r v e r l e s s - t e r r a f o r m  
- 
+#
