@@ -281,7 +281,7 @@ aws --version</code></pre>
 #### React App Initialization
 1. Clone the repo
 ```sh
-git clone https://github.com/UOA-CS732-SE750-Students-2024/cs732-assignment-jgconn.git
+git clone https://github.com/jgconn/aws-serverless-terraform.git
 ```
 2. Move to `client` directory in repo
 ```sh
@@ -302,7 +302,7 @@ npm run build
 
 1. Clone the repo
 ```sh
-git clone https://github.com/UOA-CS732-SE750-Students-2024/cs732-assignment-jgconn.git
+git clone https://github.com/jgconn/aws-serverless-terraform.git
 ```
 2. Move to `infrastructure` directory in repo
 ```sh
